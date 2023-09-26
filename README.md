@@ -3,7 +3,7 @@ User Management System with Validation
 
 # Frameworks and Language Used
 **Spring Boot** 2.1.0
-**Java** 11
+**Java** 17
 **Maven** 3.8.1
 
 # Data Flow
